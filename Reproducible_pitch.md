@@ -1,15 +1,8 @@
----
-title: "Shiny Application and Reproducible Pitch"
-author: "Hal"
-date: "26 février 2017"
-output: 
-  slidy_presentation: 
-    keep_md: yes
----
+# Shiny Application and Reproducible Pitch
+Hal  
+26 février 2017  
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+
 
 ## Overview
 
